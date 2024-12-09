@@ -11,7 +11,7 @@ Explore how my team and I developed an innovative AI-powered travel planner that
 - **Tools:** Python, Flask, SQLAlchemy, OpenAI API, SerpAPI, HTML, CSS, JavaScript
 - **Outcomes:** Enhanced user experience through intelligent automation, saving users hours in planning and creating accurate, enjoyable travel recommendations.
 
-👀 Curious? [Explore the Project](#link-to-project-repo-or-demo)
+👀 Curious? [Explore the Project](https://github.com/joooanneliu/DXC2_Travel_Planner)
 
 ---
 
