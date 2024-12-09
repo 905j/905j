@@ -3,7 +3,7 @@ I'm a Computer Science student at Washington University in St. Louis, passionate
 
 ---
 
-## 🎯 Featured Project: AI Travel Planner (in collaboration with DXC Technology)
+## 🎯 Featured Project: AI Travel Planner for DXC Technology
 **Transforming Travel Planning with AI**  
 Explore how my team and I developed an innovative AI-powered travel planner that redefines trip planning. This application simplifies booking flights, hotels, and crafting full itineraries tailored to user preferences using OpenAI and SerpAPI.
 
